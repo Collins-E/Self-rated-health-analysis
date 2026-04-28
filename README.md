@@ -31,16 +31,13 @@ The analysis shows a generally stable trend in self-rated health from 2015 to 20
 ## Visualizations
 
 ### Canada Trend Over Time
-![Canada Trend](canada_trend.png)
 
 ### Change in Health (2015–2024)
-![Change](health_change.png)
 
 ### Latest Province Comparison
-![Province](province_latest.png)
 
 ### Selected Province Trends
-![Trends](selected_trends.png)
+
 
 ## Notes
 - Missing values were removed during preprocessing
